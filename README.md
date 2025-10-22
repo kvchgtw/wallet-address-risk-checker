@@ -1,6 +1,6 @@
-# Wallet Risk Checker – V0.1 Prototype
+# Wallet Risk Checker – V0.1
 
-一個極簡的 Next.js 原型，聚焦在「輸入錢包地址 → 呼叫 GoPlus Security API → 呈現風險結果」的核心流程，用於 Phase 1 內部驗證。
+一個極簡的 Next.js 原型，聚焦在「輸入錢包地址 → 呼叫 GoPlus Security API → 呈現風險結果」的核心流程，用於內部驗證。
 
 ## 核心能力
 
@@ -66,5 +66,4 @@ curl -X POST http://localhost:3000/api/check-address \
 
 1. 加入 Prisma / Postgres 以紀錄查詢日誌與行為分析。
 2. 建立速率限制與錯誤觀測機制以提升穩定度。
-3. 導入 LINE Bot Webhook，擴充多渠道的查詢體驗。
-4. 撰寫自動化測試覆蓋 API 與前端互動。
+3. 撰寫自動化測試覆蓋 API 與前端互動。

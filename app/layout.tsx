@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Wallet Risk Checker",
   description:
-    "Instantly assess wallet risk with GoPlus Security data via web and LINE Bot."
+    "Instantly assess wallet risk with GoPlus Security data."
 };
 
 export default function RootLayout({

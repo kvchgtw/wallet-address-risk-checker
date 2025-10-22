@@ -149,7 +149,7 @@ export default function Home() {
             在 3 秒內檢查任意錢包地址的安全風險
           </h1>
           <p className="text-base text-slate-300">
-            整合 GoPlus Security API，透過網站與 LINE Bot 提供即時風險評估。
+            整合 GoPlus Security API，透過網站提供即時風險評估。
           </p>
         </header>
 
