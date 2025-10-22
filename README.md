@@ -1,4 +1,4 @@
-# Wallet Risk Checker – V0.1
+# [Wallet Risk Checker – V0.1](https://wallet-scam-check.vercel.app/)
 
 一個極簡的 Next.js 原型，聚焦在「輸入錢包地址 → 呼叫 GoPlus Security API → 呈現風險結果」的核心流程，用於內部驗證。
 

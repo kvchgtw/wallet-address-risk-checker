@@ -146,10 +146,10 @@ export default function Home() {
             Wallet Risk Checker
           </p>
           <h1 className="text-4xl font-bold tracking-tight">
-            在 3 秒內檢查任意錢包地址的安全風險
+            檢查錢包地址的安全風險
           </h1>
           <p className="text-base text-slate-300">
-            整合 GoPlus Security API，透過網站提供即時風險評估。
+            轉帳前，先確認這是不是高風險的詐騙錢包地址
           </p>
         </header>
 
